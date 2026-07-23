@@ -257,7 +257,7 @@
       <g opacity="0">
         <circle cx="536" cy="379" r="3" class="info-dot"/>
         <text x="550" y="383" class="meta-label">RESEARCH</text>
-        <text x="679" y="383" class="meta-value">Computer Vision · Applied ML</text>
+        <text x="679" y="383" class="meta-value">Artificial Intelligence · Computer Vision</text>
         <animate attributeName="opacity" values="0;1" dur=".42s" begin="4.5s" fill="freeze"/>
         <animateTransform attributeName="transform" type="translate" values="0 7;0 0" dur=".42s" begin="4.5s" fill="freeze"/>
       </g>
