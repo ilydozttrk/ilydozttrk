@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=7">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=7">
-  <img src="./assets/dark.svg?v=7" alt="İlayda Öztürk — Computer Engineering, AI and Cybersecurity" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="İlayda Öztürk — Computer Engineering, AI and Cybersecurity" width="100%">
 </picture>
 
 <p align="center">
